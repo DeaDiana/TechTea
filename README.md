@@ -1,2 +1,2 @@
 # TechTea
-Java, spring boot and other feature trials
+Java, spring boot and other features trials
